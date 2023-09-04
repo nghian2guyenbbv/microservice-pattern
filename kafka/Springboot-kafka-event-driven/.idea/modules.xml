@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot-kafka-event-driven.iml" filepath="$PROJECT_DIR$/Springboot-kafka-event-driven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-base-domains/spring-base-domains.iml" filepath="$PROJECT_DIR$/../spring-base-domains/spring-base-domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-emailService/spring-emailService.iml" filepath="$PROJECT_DIR$/../spring-emailService/spring-emailService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-orderService/spring-orderService.iml" filepath="$PROJECT_DIR$/../spring-orderService/spring-orderService.iml" />
+    </modules>
+  </component>
+</project>
